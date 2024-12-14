@@ -1,0 +1,22 @@
+,
+      {
+        "src": "/food-recipe/(.*)",
+        "dest": "/food-recipe/build/$1"
+      },
+      {
+        "src": "/movie-search/(.*)",
+        "dest": "/movie-search/build/$1"
+      },
+      {
+        "src": "/quiz-app/(.*)",
+        "dest": "/quiz-app/build/$1"
+      },
+      {
+        "src": "/sgpa-calculator/(.*)",
+        "dest": "/sgpa-calculator/build/$1"
+      },
+      {
+        "src": "/todo/(.*)",
+        "dest": "/todo/build/$1"
+      }
+      
